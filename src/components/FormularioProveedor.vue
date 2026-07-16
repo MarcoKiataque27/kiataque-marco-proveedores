@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 
-// Campos reactivos para vincularlos con v-model en el formulario
+// Campos reactivos para vincularlos con v-model en el formulario.
 const empresa = ref('')
 const contacto = ref('')
 const telefono = ref('')
