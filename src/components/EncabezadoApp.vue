@@ -1,5 +1,5 @@
 <script setup>
-// defineProps()
+// defineProps().
 // declara los datos que el componente puede recibir desde su componente padre.
 // Vue exige declarar explícitamente cada propiedad que recibe el componente.
 defineProps({
