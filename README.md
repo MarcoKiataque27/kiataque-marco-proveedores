@@ -5,6 +5,8 @@
 - **Nombre completo:** Marco Antonio Kiataque Uchima
 - **GitHub:** antoniokiataqueuchima@gmail.com
 
+---
+
 ## Descripción del Examen
 Aplicación desarrollada en Vue.js para registrar y de manera dinámica mostrar los proveedores de una microempresa de Santa Cruz de la Sierra. El proyecto incluye un componente de encabezado reutilizable, persistencia temporal en memoria de los registros, validaciones visuales dentro de la interfaz y renderizado dinámico con tablas.
 
