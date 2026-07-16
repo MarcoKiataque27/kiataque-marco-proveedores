@@ -22,6 +22,7 @@ Aplicación desarrollada en Vue.js para registrar y de manera dinámica mostrar 
 - CSS3 (Scoped)
 - Git / GitHub
 
+---
 
 ## Recommended IDE Setup
 
