@@ -1,5 +1,5 @@
-Markdown
-# kiataque-marco-proveedores
+
+### kiataque-marco-proveedores
 
 ## Estudiante
 - **Nombre completo:** Marco Antonio Kiataque Uchima
@@ -47,31 +47,32 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ```sh
 npm install
-Compile and Hot-Reload for Development
-Bash
+```
+```sh
 npm run dev
-Compile and Minify for Production
-Bash
-npm run build
-
----
+```
 
 ### Paso 2: Ejecuta los comandos en tu Terminal para subirlo a GitHub
 
 Como se ve en tu captura de pantalla, estás exactamente dentro de la carpeta `kiataque-marco-proveedores`. Ejecuta estos comandos uno a uno en esa ventana de comandos:
 
-```bash
 # 1. Agrega el archivo README.md modificado al área de preparación
+```sh
 git add README.md
-
+```
 # 2. Crea un commit registrando este cambio de documentación
+```sh
 git commit -m "Actualizar README con datos de estudiante y guias de Vite"
-
+```
 # 3. Enlaza tu proyecto local con tu repositorio en internet (reemplaza TU_USUARIO_GITHUB)
-git remote add origin https://github.com/TU_USUARIO_GITHUB/kiataque-marco-proveedores.git
-
+```sh
+git remote add origin https://github.com/MarcoKiataque27/kiataque-marco-proveedores.git
+```
 # 4. Cambia el nombre de tu rama principal a main
+```sh
 git branch -M main
-
+```
 # 5. Sube todos tus commits a GitHub
+```sh
 git push -u origin main
+```
